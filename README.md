@@ -48,10 +48,6 @@ A maze is printed on a plastic board within the AI Kit camera’s field of view.
   - Waypoint count depends on maze layout.
   - Numbering can start at the **entrance** (top-entrance mazes count downward).
 
-**Placeholder – Solved Maze Visualization (Required)**
-> _Leave space here for the solved maze overlay (path + waypoints). Add your figure when ready._
->
-> `![Solved Maze with Path & Waypoints](Solved_Maze_Centered_Path.png)`
 
 ---
 
